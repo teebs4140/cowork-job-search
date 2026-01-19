@@ -1,0 +1,23 @@
+# User data - don't commit personal info
+profile/
+searches/
+applications/
+analytics/
+
+# Legacy directories (can remove after migration)
+resume/
+output/
+profile.json
+
+# Plans (workspace-specific)
+plans/
+
+# macOS
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
